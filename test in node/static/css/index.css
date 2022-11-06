@@ -1,0 +1,15 @@
+div {
+    border: 1px solid;
+  }
+.card {
+    box-shadow: 0 4px 8px 0 rgb(0, 0, 0);
+    color: rgb(177, 119, 243);
+    max-width: 300px;
+    margin: auto;
+    text-align: left;
+    font-family: arial;
+    padding:15px;
+    float:left;
+    height:auto;
+    margin:1px;
+}
